@@ -1,4 +1,5 @@
 import qrcode
+import qrcode.image.svg
 import os
 
 current_file_path = os.path.abspath(__file__)
